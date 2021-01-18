@@ -1,0 +1,16 @@
+wvSetPosition -win $_nWave1 {("G1" 0)}
+wvOpenFile -win $_nWave1 {/home/lin/github/FFT_verilog_IP_core/sim/FFT.fsdb}
+wvGetSignalOpen -win $_nWave1
+wvGetSignalSetScope -win $_nWave1 "/testfixture1"
+wvGetSignalSetScope -win $_nWave1 "/testfixture1/F1"
+wvGetSignalClose -win $_nWave1
+wvRestoreSignal -win $_nWave1 \
+           "/home/lin/github/FFT_verilog_IP_core/sim/signal.rc" \
+           -overWriteAutoAlias on -appendSignals on
+wvResizeWindow -win $_nWave1 0 23 1536 841
+wvResizeWindow -win $_nWave1 1536 23 1344 817
+wvResizeWindow -win $_nWave1 1536 23 1344 817
+wvSelectSignal -win $_nWave1 {( "G1" 6 )} 
+wvDisplayGridCount -win $_nWave1 -off
+wvGetSignalClose -win $_nWave1
+wvReloadFile -win $_nWave1

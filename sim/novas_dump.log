@@ -1,0 +1,168 @@
+ncsim 15.20-s039
+Linux 4.19.104-microsoft-standard #1 SMP Wed Feb 19 06:37:35 UTC 2020 x86_64
+CPU cores: 8
+Limit information:
+======================================
+cputime			unlimited
+filesize		unlimited
+datasize		unlimited
+stacksize		8192 kbytes
+coredumpsize	0 kbytes
+memoryuse		unlimited
+vmemoryuse		unlimited
+descriptors		4096
+memorylocked	64 kbytes
+maxproc			39834
+======================================
+(Special)Runtime environment variables:
+
+Runtime environment variables:
+AMD_ENTRYPOINT=vs/server/remoteExtensionHostProcess
+BROWSER=/home/lin/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/bin/helpers/browser.sh
+COLORTERM=truecolor
+DISPLAY=140.125.44.75:0
+GIT_ASKPASS=/home/lin/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/git/dist/askpass.sh
+GROUP=lin
+HISTCONTROL=ignoredups
+HISTSIZE=1000
+HOME=/home/lin
+HOST=DESKTOP-OFJ877F
+HOSTNAME=DESKTOP-OFJ877F
+HOSTTYPE=x86_64-linux
+KDEDIRS=/usr
+LANG=en_US.UTF-8
+LD_LIBRARY_PATH=/usr/cad/synopsys/verdi/cur/etc/lib/libstdc++/LINUX64/:/usr/cad/synopsys/verdi/cur/share/PLI/IUS/LINUX://usr/cad/cadence/INCISIV/cur/tools/lib:/usr/cad/cadence/INCISIV/cur/tools/vtools/vfault/lib::/usr/openwin/lib:/usr/dt/lib:/usr/lib:/usr/local/lib
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LM_LICENSE_FILE=26585@140.116.49.24:5280@140.116.49.24:
+LOGNAME=lin
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+MACHTYPE=x86_64
+MAIL=/var/spool/mail/lin
+MANPATH=/usr/cad/synopsys/synthesis/cur/doc/syn/man
+NAME=DESKTOP-OFJ877F
+OSTYPE=linux
+PATH=/usr/cad/synopsys/vcs/cur/bin:/usr/cad/synopsys/vcs/cur/linux/bin:/usr/cad/synopsys/vcs/cur/linux/util:/usr/cad/synopsys/vcs/cur/linux/flexlm:/usr/cad/synopsys/verdi/cur/bin:/usr/cad/synopsys/verdi/cur/nLint/bin:/usr/bin/X11:/usr/cad/synopsys/coreConsultant/cur/bin:/usr/cad/synopsys/synthesis/cur/amd64/syn/bin:/usr/cad/synopsys/lc/cur/bin:/usr/cad/cadence/INCISIV/cur/tools/bin:/usr/cad/cadence/INCISIV/cur/tools/vtools/vfault/bin:/usr/cad/cadence/INCISIV/cur/tools/dfII/bin:/home/lin/.local/bin:/home/lin/bin:/home/lin/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/bin:/home/lin/.local/bin:/home/lin/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/d/VM_player/bin/:/mnt/c/Program:Files:(x86)/Common:Files/Oracle/Java/javapath:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program:Files/Git/cmd:/mnt/c/Users/lin/AppData/Roaming/nvm:/mnt/c/Program:Files/nodejs:/mnt/c/Program:Files/PuTTY/:/mnt/c/ctags-2020-07-18_e9fad9cf-x64:/mnt/d/Mathlab/runtime/win64:/mnt/d/Mathlab/bin:/mnt/c/Program:Files/Docker/Docker/resources/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Users/lin/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/lin/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/lin/AppData/Local/Programs/Microsoft:VS:Code/bin:/mnt/c/iverilog/bin:/mnt/c/iverilog/gtkwave/bin:/mnt/c/Users/lin/AppData/Local/nvs/:/mnt/c/Users/lin/AppData/Roaming/nvm:/mnt/c/Program:Files/nodejs:/mnt/c/ctags-2020-07-18_e9fad9cf-x64:/mnt/c/intelFPGA/17.1/modelsim_ase/win32aloem:/var/lib/snapd/snap/bin
+PIPE_LOGGING=true
+PWD=/home/lin/github/FFT_verilog_IP_core/sim
+SHELL=/bin/bash
+SHLIB_PATH=/usr/cad/synopsys/verdi/cur/etc/lib/libstdc++/LINUX64/
+SHLVL=8
+SYNTHESIS=/usr/cad/synopsys/synthesis/cur
+SYN_MAN_DIR=/usr/cad/synopsys/synthesis/cur/doc/syn/man
+TERM=xterm-256color
+TERM_PROGRAM=vscode
+TERM_PROGRAM_VERSION=1.52.1
+USER=lin
+USES_VSCODE_SERVER_SPAWN=true
+VCS_CC=gcc
+VCS_HOME=/usr/cad/synopsys/vcs/cur
+VENDOR=unknown
+VERBOSE_LOGGING=true
+VSCODE_GIT_ASKPASS_MAIN=/home/lin/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/git/dist/askpass-main.js
+VSCODE_GIT_ASKPASS_NODE=/home/lin/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/node
+VSCODE_GIT_IPC_HANDLE=/tmp/vscode-git-bad894e4de.sock
+VSCODE_IPC_HOOK_CLI=/tmp/vscode-ipc-f668ccd6-dcc2-46e6-ad87-276ca985d0d8.sock
+WSLENV=VSCODE_WSL_EXT_LOCATION/up
+WSL_DISTRO_NAME=CentOS8
+WSL_INTEROP=/run/WSL/4847_interop
+XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+_IRUNROOT_=/usr/cad/cadence/INCISIV/cur/tools
+CDS_ARCH=lnx86
+NCRUNMODE=ncverilog:./INCA_libs/irun.lnx86.15.20.nc
+IRUNBATCH=FALSE
+IMPERAS_PORT_FILE=.vsp_ovp_gdb_port
+TCL_LIBRARY=/usr/cad/cadence/INCISIV/cur/tools/inca/files/tcl/library
+Runtime command line arguments:
+argv[0]=ncverilog
+argv[1]=-sv
+argv[2]=testfixture.v
+argv[3]=../src/FFT.v
+argv[4]=../src/fft_butterFly.v
+argv[5]=../src/shifter.v
+argv[6]=../src/twiddle_ROM.v
+argv[7]=../src/sort.v
+argv[8]=+access+r
+84 profile - 100
+          CPU/Mem usage: 0.010 sys,  0.020 user,  59.47M sys,  0.00M vm
+85 VC callback profile - scalar:0 vector:0
+86 Mon Jan 18 14:23:36 2021
+87 pliAppInit
+88 FSDB_GATE is disabled.
+89 Enable Parallel Dumping.
+90 pliAppMiscSet: New Sim Round
+91 pliEntryInit
+92 LIBSSCORE=found /usr/cad/synopsys/verdi/cur/share/PLI/IUS/LINUX/libsscore_ius152.so through $LD_LIBRARY_PATH setting.
+93 argv[0]: FFT.fsdb
+94 FSDB Dumper for IUS, Release Verdi_Q-2020.03, Linux, 02/09/2020
+95 (C) 1996 - 2020 by Synopsys, Inc.
+96 sps_call_fsdbDumpfile at 0 : /home/lin/github/FFT_verilog_IP_core/sim/testfixture.v(50)
+97 argv[0]: FFT.fsdb
+98 *Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+99 *Verdi* : Create FSDB file 'FFT.fsdb'
+100 sps_call_fsdbDumpvars at 0 : /home/lin/github/FFT_verilog_IP_core/sim/testfixture.v(51)
+101 *Verdi* : Begin traversing the scopes, layer (0).
+102 *Verdi* : End of traversing.
+103 fsdbDumpvars traverse var: profile - 
+          CPU/Mem usage: 0.010 sys,  0.040 user,  142.04M sys,  0.00M vm
+                   incr: 0.000 sys,  0.010 user,  3.71M sys,  0.00M vm
+                   accu: 0.000 sys,  0.010 user,  3.71M sys,  0.00M vm
+              accu incr: 0.000 sys,  0.010 user,  3.71M sys,  0.00M vm
+
+          Count usage: 353 var,  319 idcode,  319 callback
+                 incr: 353 var,  319 idcode,  319 callback
+                 accu: 353 var,  319 idcode,  319 callback
+            accu incr: 353 var,  319 idcode,  319 callback
+104 VC callback profile - scalar:0 vector:0
+105 Mon Jan 18 14:23:36 2021
+106 fsdbDumpvars: profile - 
+          CPU/Mem usage: 0.010 sys,  0.040 user,  143.09M sys,  0.00M vm
+                   incr: 0.000 sys,  0.000 user,  1.05M sys,  0.00M vm
+                   accu: 0.000 sys,  0.010 user,  4.76M sys,  0.00M vm
+              accu incr: 0.000 sys,  0.000 user,  1.05M sys,  0.00M vm
+
+          Count usage: 353 var,  319 idcode,  319 callback
+                 incr: 0 var,  0 idcode,  0 callback
+                 accu: 353 var,  319 idcode,  319 callback
+            accu incr: 0 var,  0 idcode,  0 callback
+107 VC callback profile - scalar:213 vector:106
+108 Mon Jan 18 14:23:36 2021
+109 sps_call_fsdbDumpMDA at 0 : /home/lin/github/FFT_verilog_IP_core/sim/testfixture.v(52)
+110 *Verdi* : Begin traversing the MDAs, layer (0).
+111 *Verdi* : Enable +mda and +packedmda dumping.
+112 *Verdi* : End of traversing the MDAs.
+113 fsdbDumpMDA traverse var: profile - 
+          CPU/Mem usage: 0.020 sys,  0.050 user,  143.24M sys,  0.00M vm
+                   incr: 0.010 sys,  0.010 user,  0.15M sys,  0.00M vm
+                   accu: 0.010 sys,  0.010 user,  0.15M sys,  0.00M vm
+              accu incr: 0.010 sys,  0.010 user,  0.15M sys,  0.00M vm
+
+          Count usage: 3763 var,  3511 idcode,  3514 callback
+                 incr: 3410 var,  3192 idcode,  3195 callback
+                 accu: 3410 var,  3192 idcode,  3195 callback
+            accu incr: 3410 var,  3192 idcode,  3195 callback
+114 VC callback profile - scalar:213 vector:106
+115 Mon Jan 18 14:23:36 2021
+116 fsdbDumpMDA: profile - 
+          CPU/Mem usage: 0.020 sys,  0.050 user,  143.37M sys,  0.00M vm
+                   incr: 0.000 sys,  0.000 user,  0.14M sys,  0.00M vm
+                   accu: 0.010 sys,  0.010 user,  0.28M sys,  0.00M vm
+              accu incr: 0.000 sys,  0.000 user,  0.14M sys,  0.00M vm
+
+          Count usage: 3763 var,  3511 idcode,  3514 callback
+                 incr: 0 var,  0 idcode,  0 callback
+                 accu: 3410 var,  3192 idcode,  3195 callback
+            accu incr: 0 var,  0 idcode,  0 callback
+117 VC callback profile - scalar:409 vector:3320
+118 Mon Jan 18 14:23:36 2021
+119 End of simulation at 1200000
+120 VC callback profile - scalar:52496 vector:157854
+121 Mon Jan 18 14:23:36 2021
+122 Begin FSDB profile info:
+123 FSDB Writer : bc1(52496) bcn(157854) mtf/stf(0/0)
+FSDB Writer elapsed time : flush(0.062254) io wait(0.000000) theadpool wait(0.000000)
+FSDB Writer cpu time : MT Compression : 0
+124 End FSDB profile info
+125 Parallel profile    -  Flush:4 Expand:0 ProduceWait:0 ConsumerWait:0 BlockUsed:3
+126                        ProduceTime:0.174285938 ConsumerTime:0.028153862 Buffer:64MB
+127 SimExit
+128 Sim process exit

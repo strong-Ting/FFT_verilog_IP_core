@@ -1,0 +1,1 @@
+ncverilog -sv testfixture.v ../src/FFT.v ../src/fft_butterFly.v  ../src/shifter.v  ../src/twiddle_ROM.v ../src/sort.v +access+r
